@@ -1,0 +1,4 @@
+threshold_min,zone,zone_label,population,pct_total_population,zone3_rural_population,zone3_urban_population,pct_zone3_population_rural,pct_zone3_population_urban,median_motorised_time_to_nearest_level4_for_zone3_population
+30,1,Zone 1: Well-served,41892800,76.75889993763687,NA,NA,NA,NA,NA
+30,2,Zone 2: Motorised-dependent,10441511,19.131662196051224,NA,NA,NA,NA,NA
+30,3,Zone 3: Critically underserved,2356365.5,4.317496649328755,2172816.5,181978.03125,92.21050384585922,7.7228270083737005,125.7400894165039
