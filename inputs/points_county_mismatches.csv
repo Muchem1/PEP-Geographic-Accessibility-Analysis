@@ -1,0 +1,136 @@
+"facility","latitude","longitude","keph_level","county","subcounty","ward","facility_status","facility_type","facility_owner",".original_row",".remove_reason",".matched_county",".county_match"
+"Beta Care Nursing Home",-1.292066,36.821946,"Level 3","Kiambu","Githunguri","Githunguri","open","Medical Center","Faith Based",31,"CSV county does not match spatial county","Nairobi",FALSE
+"Dr Macharia",-1.2884754,36.8270955,"Level 2","Kiambu","Thika Town","Township","open","Medical Clinic","Private",58,"CSV county does not match spatial county","Nairobi",FALSE
+"Gathanga Health Centre",-1.1918347,36.7935287,"Level 3","Kiambu","Kiambaa","Muchatha","open","Dispensary","Government/Public Entity",89,"CSV county does not match spatial county","Nairobi",FALSE
+"Gracious Medical Clinic",-0.8161242,36.116347,"Level 2","Laikipia","Laikipia East","Ngobit","open","Medical Clinic","Private",144,"CSV county does not match spatial county","Narok",FALSE
+"Kiangai Medical Clinic",-0.4802083,37.1767762,"Level 2","Kirinyaga","Kirinyaga West","Kiine","open","Medical Center","Private",271,"CSV county does not match spatial county","Nyeri",FALSE
+"Kigumo Level 4 Hospital Githunguri",-1.292066,36.821946,"Level 3","Kiambu","Githunguri","Komothai","open","Hospital","Government/Public Entity",285,"CSV county does not match spatial county","Nairobi",FALSE
+"Miguta Community Dispensary",-1.292066,36.821946,"Level 2","Kiambu","Githunguri","Ngewa","open","Dispensary","Government/Public Entity",346,"CSV county does not match spatial county","Nairobi",FALSE
+"Nanyuki Cottage",0.019127,37.0739323,"Level 2","Nyeri","Kieni East","Gakawa","open","Medical Clinic","Private",396,"CSV county does not match spatial county","Laikipia",FALSE
+"Ndururumo Dispensary",0.3736489,36.4228179,"Level 2","Kiambu","Juja","Theta","open","Dispensary","Government/Public Entity",412,"CSV county does not match spatial county","Laikipia",FALSE
+"St Teresa Catholic Dispensary",-0.7633317,37.377665,"Level 2","Kirinyaga","Kirinyaga North/Mwea West","Wamumu","open","Dispensary","Faith Based",499,"CSV county does not match spatial county","Embu",FALSE
+"Miasenyi Dispensary",-3.6763053,38.9475315,"Level 2","Taita Taveta","Voi","Marungu","open","Dispensary","Government/Public Entity",761,"CSV county does not match spatial county","Kwale",FALSE
+"Ng'ombeni Dispensary",-4.1281363,39.63236,"Level 2","Kwale","Matuga","Waangombeni","open","Dispensary","Government/Public Entity",836,"CSV county does not match spatial county","Mombasa",FALSE
+"78 Tank Battalion Dispensary",0.3601831,37.6140803,"Level 2","Isiolo","Isiolo","Wabera","open","Dispensary","Government/Public Entity",940,"CSV county does not match spatial county","Meru",FALSE
+"Illaut Dispensary",1.8684049,37.244128,"Level 2","Marsabit","Laisamis","Korr/Ngurunit","open","Dispensary","Faith Based",1041,"CSV county does not match spatial county","Samburu",FALSE
+"Kilome Maternity and Nursing Home Hospital",-2.0781543,37.4631852,"Level 2","Makueni","Kibwezi West","Emali/Mulala","open","Hospital","Private",1205,"CSV county does not match spatial county","Kajiado",FALSE
+"Kula Mawe Dispensary",-0.5205593,37.4542348,"Level 2","Isiolo","Garbatulla","Kinna","open","Dispensary","Government/Public Entity",1258,"CSV county does not match spatial county","Embu",FALSE
+"Ngurunit Health centre",1.7415184,37.3082754,"Level 3","Marsabit","Laisamis","Korr/Ngurunit","open","Health Center","Government/Public Entity",1433,"CSV county does not match spatial county","Samburu",FALSE
+"Round About Medical Dispensary",-1.2035339,36.9153946,"Level 2","Nairobi","Roysambu","Githurai","open","Dispensary","Private",1690,"CSV county does not match spatial county","Kiambu",FALSE
+"St Mary's Health Services",-1.2032904,36.915741,"Level 3","Nairobi","Ruaraka","Korogocho","open","Health Center","Private",1707,"CSV county does not match spatial county","Kiambu",FALSE
+"Athibohol Dispensary",1.6981874,39.2156932,"Level 2","Wajir","Wajir West","Hadado/Athibohol","open","Dispensary","Government/Public Entity",1741,"CSV county does not match spatial county","Isiolo",FALSE
+"Basir Dispensary",2.5591378,38.8803804,"Level 2","Wajir","Eldas","Lakoley South/Basir","open","Dispensary","Government/Public Entity",1744,"CSV county does not match spatial county","Marsabit",FALSE
+"Bour-algy Dispensary",-0.5059035,39.6756328,"Level 2","Garissa","Garissa","Iftin","open","Dispensary","Government/Public Entity",1751,"CSV county does not match spatial county","Tana River",FALSE
+"Godoma Health Centre (NEP)",3.4491193,39.3004027,"Level 3","Wajir","Wajir North","Godoma","open","Health Center","Government/Public Entity",1777,"CSV county does not match spatial county","Marsabit",FALSE
+"Kamuthe Health Centre",-0.7318978,39.8327812,"Level 3","Garissa","Fafi","Nanighi","open","Health Center","Government/Public Entity",1796,"CSV county does not match spatial county","Tana River",FALSE
+"Korakora Health Centre",-0.6076148,39.7802074,"Level 3","Garissa","Garissa","Iftin","open","Health Center","Government/Public Entity",1799,"CSV county does not match spatial county","Tana River",FALSE
+"Mansabubu Health Centre",-1.2112051,40.027007,"Level 3","Garissa","Fafi","Bura","open","Health Center","Government/Public Entity",1812,"CSV county does not match spatial county","Tana River",FALSE
+"Nanighi Health Centre",-0.8569979,39.8679673,"Level 3","Garissa","Fafi","Nanighi","open","Health Center","Government/Public Entity",1815,"CSV county does not match spatial county","Tana River",FALSE
+"Sabuli Health Centre",0.3508612,40.1116326,"Level 3","Wajir","Wajir South","Benane","open","Health Center","Government/Public Entity",1825,"CSV county does not match spatial county","Garissa",FALSE
+"Itibo Eramani Dispensary",-0.9235692,34.8675888,"Level 2","Kisii","Bobasi","Nyacheki","open","Dispensary","Government/Public Entity",1974,"CSV county does not match spatial county","Narok",FALSE
+"Johpas Clinic",-0.6230541,34.6216701,"Level 2","Siaya","Gem","East Gem","open","Dispensary","Private",1980,"CSV county does not match spatial county","Homa Bay",FALSE
+"Ogango Health Centre",-0.5155995,34.8685511,"Level 3","Nyamira","Nyamira","Bogichora","open","Health Center","Government/Public Entity",2213,"CSV county does not match spatial county","Kisii",FALSE
+"3KR Health Centre",-1.0362796,37.0766181,"Level 3","Nakuru","Nakuru East","Menengai","open","Medical Clinic","Private",2365,"CSV county does not match spatial county","Kiambu",FALSE
+"Chebororwa Health Centre",0.9445718,35.392498,"Level 3","elgeyo Marakwet","Marakwet West","Cherang'any/Chebororwa","open","Health Center","Government/Public Entity",2440,"CSV county does not match spatial county","Uasin Gishu",FALSE
+"Chemursoi Dispensary",-0.0298979,34.9671637,"Level 2","Nandi","Tinderet","Chemelil/Chemase","open","Dispensary","Government/Public Entity",2460,"CSV county does not match spatial county","Kisumu",FALSE
+"Intrepids Dispensary",0.5783742,37.4928886,"Level 2","Samburu","Samburu East","Wamba West","open","Medical Clinic","Private",2638,"CSV county does not match spatial county","Isiolo",FALSE
+"Katee Dispensary",0.7775435,35.4798314,"Level 2","Elgeyo Marakwet","Marakwet West","Moiben/Kuserwo","open","Dispensary","Government/Public Entity",2825,"CSV county does not match spatial county","Uasin Gishu",FALSE
+"Kiptagich Tegat Dispensary",-0.5999871,35.5769991,"Level 2","Nakuru","Kuresoi South","Kiptagich","open","Dispensary","Private",2918,"CSV county does not match spatial county","Narok",FALSE
+"Lorogon Dispensary",1.9333333,35.3614434,"Level 2","Turkana","Turkana South","Kaputir","open","Dispensary","Government/Public Entity",3041,"CSV county does not match spatial county","West Pokot",FALSE
+"NYS Dispensary (Kirimun)",0.7415786,36.82156,"Level 2","Samburu","Samburu Central","Lodokejek","open","Dispensary","Government/Public Entity",3239,"CSV county does not match spatial county","Laikipia",FALSE
+"Sabor Dispensary",0.4971567,35.47932,"Level 2","Baringo","Marigat","Marigat","open","Dispensary","Government/Public Entity",3318,"CSV county does not match spatial county","Elgeyo Marakwet",FALSE
+"Sochoi Dispensary",0.1914839,35.3480014,"Level 2","Nandi","Nandi Hills","Ol'lessos","open","Dispensary","Government/Public Entity",3385,"CSV county does not match spatial county","Uasin Gishu",FALSE
+"South Horr health Centre",2.0917842,36.9200716,"Level 3","Samburu","Samburu North","Nyiro","open","Health Center","Government/Public Entity",3398,"CSV county does not match spatial county","Marsabit",FALSE
+"Tugumoi Dispensary",0.1757056,35.6326345,"Level 2","Baringo","Koibatek","Lembus","open","Dispensary","Government/Public Entity",3479,"CSV county does not match spatial county","Elgeyo Marakwet",FALSE
+"Tuiyobei Dispensary",0.1580175,36.3142396,"Level 2","Baringo","Marigat","Mochongoi","open","Dispensary","Government/Public Entity",3481,"CSV county does not match spatial county","Laikipia",FALSE
+"A.C.K Butonge Dispensary",0.521055,35.3404517,"Level 2","Bungoma","Sirisia","Malakisi/South Kulisiru","open","Dispensary","Government/Public Entity",3538,"CSV county does not match spatial county","Uasin Gishu",FALSE
+"Esitsaba Dispensary",0.0029184,34.6240993,"Level 2","Vihiga","Luanda","Emabungo","open","Dispensary","Government/Public Entity",3581,"CSV county does not match spatial county","Kisumu",FALSE
+"Kabula Health Centre",0.7885112,35.5841032,"Level 3","Bungoma","Bumula","Kabula","open","Dispensary","Government/Public Entity",3602,"CSV county does not match spatial county","Elgeyo Marakwet",FALSE
+"Kilingili Health Centre",0.124363,34.6810178,"Level 3","Kakamega","Ikolomani","Idakho South","open","Health Center","Government/Public Entity",3628,"CSV county does not match spatial county","Vihiga",FALSE
+"Shiru Health Centre",0.1569019,34.9163635,"Level 3","Kakamega","Hamisi","Shiru","open","Health Center","Government/Public Entity",3752,"CSV county does not match spatial county","Nandi",FALSE
+"Lukhoba Dispensary",0.5873011,34.8017737,"Level 2","Bungoma","Webuye East","Maraka","open","Dispensary","Government/Public Entity",3778,"CSV county does not match spatial county","Kakamega",FALSE
+"Eldere Dispensary",0.5957843,38.8358608,"Level 2","Garissa","Lagdera","Modogashe","open","Dispensary","Government/Public Entity",3851,"CSV county does not match spatial county","Isiolo",FALSE
+"Kaptisi Dispensary",0.1842861,34.9220627,"Level 2","Kakamega","Hamisi","Shiru","open","Dispensary","Government/Public Entity",3964,"CSV county does not match spatial county","Nandi",FALSE
+"Musibiriri Dispensary",0.3438855,34.3928628,"Level 2","Busia","Butula","Marachi East","open","Dispensary","Government/Public Entity",3987,"CSV county does not match spatial county","Kakamega",FALSE
+"Ikuywa Dispensary",0.2090095,34.9416378,"Level 2","Kakamega","Shinyalu","Isukha East","open","Dispensary","Government/Public Entity",4081,"CSV county does not match spatial county","Nandi",FALSE
+"Chepilat Medical Centre",-0.6945938,35.0666965,"Level 2","Kisii","Borabu","Mekenene","open","Health Center","Private",4158,"CSV county does not match spatial county","Bomet",FALSE
+"Tinganga Catholic Dispensary",-1.292066,36.8219452,"Level 2","Kiambu","Kiambu Town","Ting'ang'a","open","Dispensary","Faith Based",4298,"CSV county does not match spatial county","Nairobi",FALSE
+"Lamaiwe Dispensary",0.341205,36.2457733,"Level 2","Baringo","Marigat","Mochongoi","open","Dispensary","Government/Public Entity",4482,"CSV county does not match spatial county","Laikipia",FALSE
+"Musau Medical Clinic",-2.0785753,37.4625422,"Level 2","Makueni","Kibwezi West","Emali/Mulala","open","Medical Clinic","Private",4564,"CSV county does not match spatial county","Kajiado",FALSE
+"Namunyak Medical Clinic",0.7416843,36.8790754,"Level 2","Nakuru","Gilgil","Gilgil","open","Medical Clinic","Private",4589,"CSV county does not match spatial county","Samburu",FALSE
+"Osieko Dispensary",-0.0286795,34.0151307,"Level 2","Busia","Bunyala","Bunyala South","open","Dispensary","Government/Public Entity",4684,"CSV county does not match spatial county","Siaya",FALSE
+"Mother Ippolata mukuru Clinic",-1.3210782,36.8886792,"Level 2","Machakos","Athi River","Muthwani","open","Dispensary","Faith Based",4713,"CSV county does not match spatial county","Nairobi",FALSE
+"Royal Clinic",-0.694633,35.0683454,"Level 2","Kisii","Borabu","Mekenene","open","Dispensary","Private",4721,"CSV county does not match spatial county","Bomet",FALSE
+"St Michael Medical Clinic",-1.0614639,35.7488227,"Level 2","Machakos","Mwala","Masii","open","Medical Clinic","Private",4725,"CSV county does not match spatial county","Narok",FALSE
+"Timbwani Medical Clinic",-4.193395,39.5931133,"Level 2","Mombasa","Likoni","Shika Adabu","open","Medical Clinic","Private",4735,"CSV county does not match spatial county","Kwale",FALSE
+"The Haven Medical Clinic",-1.3663936,38.0102244,"Level 2","Kiambu","Ruiru","Biashara","open","Medical Clinic","Private",4867,"CSV county does not match spatial county","Kitui",FALSE
+"Rheno Medicare Clinic",0.0758583,34.8534817,"Level 2","Nandi","Aldai","Kobujoi","open","Medical Clinic","Private",5121,"CSV county does not match spatial county","Vihiga",FALSE
+"Chesinende Dispensary",-0.2616237,35.4758301,"Level 2","Bungoma","Mt Elgon","Kaptama","open","Dispensary","Government/Public Entity",5144,"CSV county does not match spatial county","Kericho",FALSE
+"Ngenia Dispensary",0.0662042,37.201926,"Level 2","Laikipia","Laikipia North","Mugogodo East","open","Dispensary","Government/Public Entity",5156,"CSV county does not match spatial county","Meru",FALSE
+"Radienya Dispensary",-0.4102602,34.9741253,"Level 2","Kisumu","Nyakach","South East Nyakach","open","Dispensary","Government/Public Entity",5202,"CSV county does not match spatial county","Homa Bay",FALSE
+"Dr Ndanya Medical Clinic",0.006871,37.0735777,"Level 2","Laikipia","Laikipia East","Nanyuki","open","Medical Clinic","Private",5363,"CSV county does not match spatial county","Nyeri",FALSE
+"Eshiabwali Health Centre",0.1261581,34.6607555,"Level 3","Kakamega","Khwisero","Kisa East","open","Health Center","Government/Public Entity",5608,"CSV county does not match spatial county","Vihiga",FALSE
+"Rotu Dispensary",1.4341132,35.9373978,"Level 2","Baringo","East Pokot","Kolowa","open","Dispensary","Faith Based",5629,"CSV county does not match spatial county","Turkana",FALSE
+"Aga Khan Medical Clinic (laikipia east)",0.0101845,37.0752149,"Level 2","Laikipia","Laikipia East","Nanyuki","open","Medical Clinic","Private",5701,"CSV county does not match spatial county","Nyeri",FALSE
+"Kambini Dispensary",-0.6916514,34.9616171,"Level 2","Bungoma","Kimilili","Kimilili","open","Dispensary","Government/Public Entity",5884,"CSV county does not match spatial county","Nyamira",FALSE
+"Akwichatis Health Centre",1.0584566,36.305978,"Level 3","Baringo","Tiaty East","Silale","open","Health Center","Government/Public Entity",5916,"CSV county does not match spatial county","Turkana",FALSE
+"Burmayow Dispensary",2.9796443,40.2653804,"Level 2","Wajir","Tarbaj","Elben","open","Dispensary","Government/Public Entity",6063,"CSV county does not match spatial county","Mandera",FALSE
+"Gunana Dispensary",3.1725465,40.0954147,"Level 2","Wajir","Tarbaj","Sarman","open","Dispensary","Government/Public Entity",6064,"CSV county does not match spatial county","Mandera",FALSE
+"Janju Dispensary",0.6918817,39.0746104,"Level 2","Garissa","Lagdera","Modogashe","open","Dispensary","Government/Public Entity",6067,"CSV county does not match spatial county","Isiolo",FALSE
+"Marachi HealthCare Clinic",0.3612927,34.4017624,"Level 2","Busia","Butula","Marachi East","open","Medical Clinic","Private",6078,"CSV county does not match spatial county","Kakamega",FALSE
+"Anderi Dispensary",2.2215164,36.8976706,"Level 2","Samburu","Samburu North","Nyiro","open","Dispensary","Government/Public Entity",6093,"CSV county does not match spatial county","Marsabit",FALSE
+"Parkati Dispensary",2.2451263,36.6803377,"Level 2","Samburu","Samburu North","Nyiro","open","Dispensary","Government/Public Entity",6097,"CSV county does not match spatial county","Turkana",FALSE
+"Tumaini Sondu Dice",-0.3907355,35.010181,"Level 2","Kisumu","Nyakach","South East Nyakach","open","other","Non-Governmental Organization",6192,"CSV county does not match spatial county","Homa Bay",FALSE
+"Nimoli Medical Services",-1.2295035,36.9204824,"Level 2","Kiambu","Limuru","Ndeiya","open","Medical Center","Private",6232,"CSV county does not match spatial county","Nairobi",FALSE
+"Barquqe Dispensary",0.6552641,39.0054615,"Level 2","Garissa","Lagdera","Modogashe","open","Dispensary","Government/Public Entity",6269,"CSV county does not match spatial county","Isiolo",FALSE
+"Kanyoni Dispensary",-0.0312575,37.116522,"Level 2","Laikipia","Laikipia East","Nanyuki","open","Dispensary","Government/Public Entity",6299,"CSV county does not match spatial county","Nyeri",FALSE
+"Olepolos Dispensary Narok North",-0.6667019,36.0149149,"Level 2","Narok","Narok North","Olorropil","open","Dispensary","Government/Public Entity",6305,"CSV county does not match spatial county","Nakuru",FALSE
+"Creative Medical Services",-1.292066,36.821946,"Level 2","Kiambu","Kiambu Town","Township","open","Medical Center","Private",6338,"CSV county does not match spatial county","Nairobi",FALSE
+"Thung'ari Dispensary",-0.2597738,36.989001,"Level 2","Nyeri","Kieni East","Thegu River","open","Dispensary","Government/Public Entity",6574,"CSV county does not match spatial county","Laikipia",FALSE
+"Tumbura Dispensary",-0.0439502,37.9286198,"Level 2","Tharaka Nithi","Tharaka South","Nkondi","open","Dispensary","Government/Public Entity",6604,"CSV county does not match spatial county","Meru",FALSE
+"Kapchebon Dispensary",0.9019676,34.7963647,"Level 2","Bungoma","Mt Elgon","Kaptama","open","Dispensary","Government/Public Entity",6911,"CSV county does not match spatial county","Trans Nzoia",FALSE
+"Kapsigilai Dispensary",0.9703388,35.3393211,"Level 2","Trans Nzoia","Cherangany","Chepsiro/Kiptoror","open","Dispensary","Government/Public Entity",6965,"CSV county does not match spatial county","Elgeyo Marakwet",FALSE
+"Smilestar Medical Services & Dental Care",-1.2037364,36.914938,"Level 2","Nairobi","Roysambu","Githurai","open","Medical Clinic","Private",7068,"CSV county does not match spatial county","Kiambu",FALSE
+"Kiboswa medical clinic",-0.0240266,34.7465556,"Level 2","Vihiga","Hamisi","Tambua","open","Medical Clinic","Private",7078,"CSV county does not match spatial county","Kisumu",FALSE
+"Mbulutini Dispensary",-2.1674341,37.6339088,"Level 2","Makueni","Kibwezi West","Nguu/Masumba","open","Dispensary","Government/Public Entity",7147,"CSV county does not match spatial county","Kajiado",FALSE
+"Summit Medical Clinic (Chepilat)",-0.6945401,35.0700228,"Level 2","Kisii","Borabu","Mekenene","open","Nursing Home","Private",7267,"CSV county does not match spatial county","Bomet",FALSE
+"Matagatani Dispensary",-0.1331267,37.8373717,"Level 2","Tharaka Nithi","Tharaka South","Chiakagira","open","Dispensary","Government/Public Entity",7275,"CSV county does not match spatial county","Meru",FALSE
+"Gagaba Dispensary",3.5693435,39.7121381,"Level 2","Mandera","Mandera West","Gither","open","Dispensary","Government/Public Entity",7397,"CSV county does not match spatial county","Wajir",FALSE
+"Njoguni Dispensary",0.0744433,37.97772,"Level 2","Tharaka Nithi","Tharaka North","Mukothima","open","Dispensary","Government/Public Entity",7575,"CSV county does not match spatial county","Meru",FALSE
+"Mbagas Dispensary",1.6441496,37.3817291,"Level 2","Marsabit","Laisamis","Korr/Ngurunit","open","Dispensary","Government/Public Entity",7582,"CSV county does not match spatial county","Samburu",FALSE
+"GLEMAX MEDICAL CLINIC",-1.292066,36.8219452,"Level 2","Kiambu","Githunguri","Githunguri","open","Medical Center","Private",8019,"CSV county does not match spatial county","Nairobi",FALSE
+"Maryhill Medical Centre",0.0388957,36.3635371,"Level 2","Nakuru","Oljoroorok","Weru","open","Nursing Home","Private",8045,"CSV county does not match spatial county","Laikipia",FALSE
+"Elephant Dental",-3.395653,37.6758046,"Level 2","Kiambu","Thika Town","Township","open","Medical Clinic","Private",8060,"CSV county does not match spatial county","Taita Taveta",FALSE
+"Community AlphaLink Medical Centre",-0.5586212,34.743631,"Level 2","Homa Bay","Rachuonyo South","South Kasipul","open","Medical Clinic","Private",8062,"CSV county does not match spatial county","Kisii",FALSE
+"Curafa Medical Clinic",-1.2075754,36.6937997,"Level 2","Machakos","Kathiani","Lower Kaewa/Kaani","open","Medical Center","Private",8109,"CSV county does not match spatial county","Kiambu",FALSE
+"The Gyno Solutions Center Limited",-1.292066,36.821946,"Level 3","Kiambu","Kiambu Town","Township","open","Hospital","Private",8193,"CSV county does not match spatial county","Nairobi",FALSE
+"Victory Medical Center",-0.4307897,37.3090275,"Level 2","Nairobi","Embakasi West","Umoja I","open","Medical Center","Private",8200,"CSV county does not match spatial county","Kirinyaga",FALSE
+"Riverside Medicare Centre",-1.2219294,36.7800769,"Level 3","Kiambu","Kiambaa","Kihara","open","Medical Center","Private",8209,"CSV county does not match spatial county","Nairobi",FALSE
+"Githunguri Medical Clinic",-1.2835079,36.9901729,"Level 2","Nairobi","Embakasi East","Utawala","open","Medical Center","Private",8220,"CSV county does not match spatial county","Machakos",FALSE
+"Alphil Medical Centre Limited",0.271689,36.3166944,"Level 2","Baringo","Marigat","Mochongoi","open","Medical Center","Private",8371,"CSV county does not match spatial county","Laikipia",FALSE
+"Kalu Medical Clinic",-0.9718707,34.6762661,"Level 2","Kisii","South Mugirango","Borabu/Chitago","open","Medical Center","Private",8393,"CSV county does not match spatial county","Narok",FALSE
+"Thayu Medical Clinic",-0.4208889,36.5868146,"Level 2","Nakuru","Nakuru North","Bahati","open","Medical Clinic","Private",8460,"CSV county does not match spatial county","Nyandarua",FALSE
+"AAR Healthcare Services Syokimau Outpatient Centre",-1.3572291,36.9081318,"Level 3","Machakos","Athi River","Syokimau/Mulolongo","open","Medical Center","Private",8679,"CSV county does not match spatial county","Nairobi",FALSE
+"Equity Afia Githurai",-1.20382,36.9157359,"Level 3","Nairobi","Roysambu","Githurai","open","Medical Center","Private",8732,"CSV county does not match spatial county","Kiambu",FALSE
+"Riosiri Centre Medical Clinic-Rongo",-0.7697726,34.6250754,"Level 2","Migori","Rongo","Central Kamagambo","open","Medical Clinic","Private",8820,"CSV county does not match spatial county","Kisii",FALSE
+"Canspi Hospital Ruaka",-1.2093354,36.7875691,"Level 2","Kiambu","Kiambaa","Ndenderu","open","Medical Center","Private",8827,"CSV county does not match spatial county","Nairobi",FALSE
+"Iresteno Dispensary",3.4670689,39.6117978,"Level 2","Mandera","Mandera West","Dandu","open","Dispensary","Government/Public Entity",8871,"CSV county does not match spatial county","Wajir",FALSE
+"Kimoriot Dispensary",0.2284655,36.3096817,"Level 2","Baringo","Marigat","Mochongoi","open","Dispensary","Government/Public Entity",8919,"CSV county does not match spatial county","Laikipia",FALSE
+"New life (F) Medical Clinic",-1.0878906,35.872474,"Level 2","Kilifi","Kilifi South","Mtepeni","open","Medical Clinic","Private",9020,"CSV county does not match spatial county","Narok",FALSE
+"Mary Immaculate Catholic Dispensary( Makutano)",-0.7543019,37.2793541,"Level 2","Kirinyaga","Kirinyaga North/Mwea West","Mutithi","open","Dispensary","Faith Based",9076,"CSV county does not match spatial county","Embu",FALSE
+"Ochore Dispensary",-0.0183203,34.5389992,"Level 2","Vihiga","Luanda","Luanda South","open","Dispensary","Government/Public Entity",9079,"CSV county does not match spatial county","Kisumu",FALSE
+"Helfen Medical Centre",-1.2573067,36.7035683,"Level 2","Kiambu","Kabete","Uthiru","open","Medical Clinic","Private",9346,"CSV county does not match spatial county","Nairobi",FALSE
+"ALFOMBIU MEDICAL CLINIC",-0.9728253,34.677558,"Level 2","Kisii","South Mugirango","Borabu/Chitago","open","Medical Clinic","Private",9383,"CSV county does not match spatial county","Narok",FALSE
+"Leilan Medical Centre",-0.7562803,37.277096,"Level 2","Kirinyaga","Kirinyaga North/Mwea West","Mutithi","open","Medical Clinic","Private",9604,"CSV county does not match spatial county","Embu",FALSE
+"Ngaremara GOK Dispensary",0.495236,37.6504659,"Level 2","Isiolo","Isiolo","Ngare Mara","open","Dispensary","Government/Public Entity",9616,"CSV county does not match spatial county","Meru",FALSE
+"Josmed  Clinic",-1.25578,36.7226233,"Level 2","Kiambu","Kabete","Uthiru","open","Medical Clinic","Private",9647,"CSV county does not match spatial county","Nairobi",FALSE
+"Malik Healthcare",-1.2853448,36.985026,"Level 2","Kajiado","Kajiado North","Ongata Rongai","open","Medical Clinic","Private",9650,"CSV county does not match spatial county","Machakos",FALSE
+"Lekuru Dispensary",0.8558242,36.818302,"Level 2","Samburu","Samburu Central","Lodokejek","open","Dispensary","Government/Public Entity",9701,"CSV county does not match spatial county","Laikipia",FALSE
+"Harshilmi Health Centre",3.6003414,39.7381929,"Level 3","Mandera","Mandera West","Gither","open","Health Center","Government/Public Entity",9922,"CSV county does not match spatial county","Wajir",FALSE
+"Equity Afia Medical Clinic Nanyuki",0.0062249,37.0730523,"Level 2","Laikipia","Laikipia East","Nanyuki","open","Medical Center","Private",10006,"CSV county does not match spatial county","Nyeri",FALSE
+"Elephant Dental Githurai Branch",-1.2036326,36.9162152,"Level 2","Nairobi","Roysambu","Githurai","open","other","Private",10120,"CSV county does not match spatial county","Kiambu",FALSE
+"Tonya Dispensry",-0.0940047,37.8452598,"Level 2","Tharaka Nithi","Tharaka South","Marimanti","open","Dispensary","Government/Public Entity",10122,"CSV county does not match spatial county","Meru",FALSE
+"Elite Dental Clinic-Nanyuki",0.0098079,37.0740965,"Level 2","Laikipia","Laikipia East","Nanyuki","open","other","Private",10306,"CSV county does not match spatial county","Nyeri",FALSE
+"Maili Nane Dispensary",0.0549493,37.1734812,"Level 2","Laikipia","Laikipia East","Umande","open","Dispensary","Government/Public Entity",10340,"CSV county does not match spatial county","Meru",FALSE
+"Family Bliss Medical Centre",-0.4027511,37.5040127,"Level 2","Nyeri","Mathira West","Kirimukuyu","open","Medical Center","Private",11107,"CSV county does not match spatial county","Embu",FALSE
+"Leben Medical Service Shamberere",0.376105,34.8442117,"Level 2","Nyeri","Mathira West","Kirimukuyu","open","Medical Center","Private",11312,"CSV county does not match spatial county","Kakamega",FALSE

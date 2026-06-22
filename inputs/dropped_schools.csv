@@ -1,0 +1,21 @@
+"OBJECTID","CODE","school","LEVEL","Status","County","DISTRICT","ZONE","SUB_COUNTY","Ward","longitude","latitude","Source","county_clean","county_original","county_from_shp","county_match","outside_county"
+2082,3231,"SIDONGE","Primary","Public","Busia","SAMIA","NAMBOBOTO/NAMBUKU ZONE","Funyula","Namboboto-Nambuku",34.099763,0.349086,"Ministry of Education, 2016",NA,"Busia",NA,NA,TRUE
+9940,15137,"MUHAKA ISLAMIC CENTRE","Primary","Public","Kwale","MSAMBWENI","DIANI","Msambweni","Kinondo",39.575768,-4.343628,"Ministry of Education, 2016",NA,"Kwale",NA,NA,TRUE
+9952,15152,"MWAMOSE","Primary","Public","Kwale","MSAMBWENI","LUNGALUNGA","Lunga Lunga","Vanga",39.213317,-4.656903,"Ministry of Education, 2016",NA,"Kwale",NA,NA,TRUE
+9960,15165,"MWAZARO","Primary","Public","Kwale","MSAMBWENI","KIKONENI","Lunga Lunga","Pongwe/Kikoneni",39.392838,-4.597376,"Ministry of Education, 2016",NA,"Kwale",NA,NA,TRUE
+9997,15258,"SHIMONI JUNIOR","Primary","Private","Kwale","MSAMBWENI","KIKONENI","Lunga Lunga","Pongwe/Kikoneni",39.380413,-4.647163,"Ministry of Education, 2016",NA,"Kwale",NA,NA,TRUE
+10290,15673,"ISHAKANI","Primary","Public","Lamu","LAMU EAST","KIUNGA","Lamu East","Kiunga",41.530833,-1.688333,"Ministry of Education, 2016",NA,"Lamu",NA,NA,TRUE
+10291,15675,"KIUNGA","Primary","Public","Lamu","LAMU EAST","KIUNGA","Lamu East","Kiunga",41.48875,-1.74205,"Ministry of Education, 2016",NA,"Lamu",NA,NA,TRUE
+12148,18321,"SESSI","Primary","Public","Marsabit","MOYALE","GURUMESA","Moyale","Moyale Township",39.044861,3.526959,"Ministry of Education, 2016",NA,"Marsabit",NA,NA,TRUE
+12149,18322,"SOMARE","Primary","Public","Marsabit","MOYALE","GURUMESA","Moyale","Butiye",39.033077,3.52712,"Ministry of Education, 2016",NA,"Marsabit",NA,NA,TRUE
+12150,18329,"BILAL JUNIOR","Primary","Private","Marsabit","MOYALE","GURUMESA","Moyale","Moyale Township",39.059191,3.528252,"Ministry of Education, 2016",NA,"Marsabit",NA,NA,TRUE
+12151,18331,"FULL GOSPEL CHURCHES","Primary","Private","Marsabit","MOYALE","GURUMESA","Moyale","Butiye",39.048281,3.526663,"Ministry of Education, 2016",NA,"Marsabit",NA,NA,TRUE
+22406,36380,"DIANI MAENDELEO ACADEMY","Secondary","Private","Kwale","MSAMBWENI","DIANI","Msambweni","Kinondo",39.570981,-4.329543,"Ministry of Education, 2016",NA,"Kwale",NA,NA,TRUE
+22484,36484,"KIUNGA SEC","Secondary","Public","Lamu","LAMU EAST","FAZA","Lamu East","Kiunga",41.489359,-1.744759,"Ministry of Education, 2016",NA,"Lamu",NA,NA,TRUE
+31155,20076197,"AL - KHULAFAU RASHIDIN PRI","Primary",NA,NA,NA,NA,NA,NA,39.061811,3.533834,"Open Data Kenya, School 2007",NA,NA,NA,NA,TRUE
+32581,200711809,"BILAL ACADEMY PRI","Primary",NA,NA,NA,NA,NA,NA,39.058771,3.531015,"Open Data Kenya, School 2007",NA,NA,NA,NA,TRUE
+33878,200716895,"SOMARE PRI","Primary",NA,NA,NA,NA,NA,NA,39.032148,3.530144,"Open Data Kenya, School 2007",NA,NA,NA,NA,TRUE
+34025,200717543,"SESSI PRI","Primary",NA,NA,NA,NA,NA,NA,39.043017,3.528344,"Open Data Kenya, School 2007",NA,NA,NA,NA,TRUE
+34268,200718515,"MARAFIKI PRI","Primary",NA,NA,NA,NA,NA,NA,39.95137,-3.36399,"Open Data Kenya, School 2007",NA,NA,NA,NA,TRUE
+34315,200718684,"SESSI ACADEMY PRI","Primary",NA,NA,NA,NA,NA,NA,39.043894,3.530218,"Open Data Kenya, School 2007",NA,NA,NA,NA,TRUE
+34515,200719466,"FULL GOSPEL PRI","Primary",NA,NA,NA,NA,NA,NA,39.049029,3.529823,"Open Data Kenya, School 2007",NA,NA,NA,NA,TRUE
